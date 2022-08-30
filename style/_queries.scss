@@ -1,0 +1,274 @@
+@media (max-width: 3100px) {
+  .descAndLocation {
+    font-size: 4.5rem;
+  }
+  .mainStat {
+    font-size: 13rem;
+    img{
+      margin-left: -2rem;
+    }
+  }
+  .otherStats .statValue{
+    font-size: 7rem;
+    line-height: 11rem;
+  }
+  .column{
+    padding-top: 2rem;
+  }
+}
+
+@media (max-width: 2900px) {
+  .mainStat{
+    font-size: 11rem;
+  }
+}
+
+@media (max-width: 2740px) {
+  .leftColumn{
+    padding: 4rem;
+  }
+}
+
+@media (max-width: 2650px){
+  .mainStat{
+    font-size: 11rem;
+  }
+  .otherStats .statValue{
+    line-height: 8.5rem;
+    font-size: 6rem;
+  }
+  .otherStats .stat{
+    margin: 0;
+  }
+  .descAndLocation{
+    font-size: 5rem;
+  }
+}
+
+@media (max-width: 2400px) {
+  .descAndLocation{
+    font-size: 4.2rem;
+  }
+  .otherStats {
+    .stat{
+      margin: -1.5rem 0;
+    }
+    .statValue{
+      line-height: 8rem;
+      font-size: 5rem;
+    }
+  }
+  .mainStat{
+    font-size: 9.5rem;
+    img{
+      margin-left: -1.5rem;
+    }
+  }
+  .rightColumn{
+    padding: 4rem;
+  }
+  .column{
+    padding-top: 0rem;
+  }
+}
+
+@media (max-width: 2150px) {
+  .leftColumn{
+    padding: 3rem;
+  }
+}
+
+@media (max-width: 2060px) {
+  .descAndLocation{
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 1950px) {
+  .mainStat{
+    font-size: 7.5rem;
+    line-height: 10rem;
+    margin-top: 3rem;
+    letter-spacing: -9px;
+    img{
+      margin-left: -1rem;
+    }
+  }
+  .leftColumn{
+    padding-top: 1rem;
+  }
+  .otherStats .statValue{
+    font-size: 4rem;
+    line-height: 6.75rem;
+  }
+}
+
+@media (max-width: 1860px) {
+  .descAndLocation{
+    font-size: 3.2rem;
+  }
+}
+
+@media (max-width: 1760px){
+  .otherStats .statValue{
+    font-size: 3.5rem;
+    line-height: 6rem;
+  }
+  .mainStat{
+    font-size: 6.5rem;
+  }
+}
+
+@media (max-width: 1650px){
+  .rightColumn{
+    padding: 2.5rem 3rem;
+    padding-top: 0;
+  }
+  .leftColumn{
+    padding: 2rem;
+    padding-top: 0;
+  }
+  .otherStats .stat{
+    margin: -1rem 0;
+  }
+}
+
+@media (max-width: 1450px){
+  .descAndLocation{
+    font-size: 2.8rem;
+  }
+  .column{
+    padding: 2rem;
+    padding-top: 0;
+  }
+  .icon{
+    margin-top: 2rem;
+  }
+  .otherStats .statValue{
+    font-size: 3rem;
+    line-height: 5.5rem;
+  }
+}
+
+@media (max-width: 900px){
+  .column {
+    min-width: 250px;
+  }
+  .descAndLocation{
+    font-size: 2rem;
+  }
+  .mainStat{
+    font-size: 4.5rem;
+    letter-spacing: -4px;
+    line-height: 6rem;
+    img{
+      margin-left: -1.25rem;
+    }
+  }
+  .otherStats{
+    .stat{
+      margin: -.75rem;
+    }
+    .statValue{
+      font-size: 2rem;
+      line-height: 3.75rem;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .widget{
+    flex-direction: column;
+    min-width: 70vw;
+  }
+  .icon{
+    padding: 0 2rem;
+  }
+  .mainStat{
+    margin-top: 1rem;
+    font-size: 4rem;
+    line-height: 4.5rem;
+    img{
+      width: 25%;
+    }
+  }
+  .otherStats{
+    .stat{
+      margin: -1rem;
+      img{
+        width: 20%;
+      }
+    }
+    .statValue{
+      font-size: 2.5rem;
+    }
+  }
+}
+
+@media (max-width: 485px){
+  .stats{
+    padding: 1rem;
+  }
+  .otherStats img{
+    width: 15%;
+  }
+  .otherStats{
+    .stat{
+      margin: -.5rem;
+    }
+    .statValue{
+      font-size: 2.1rem;
+      line-height: 3.45rem;
+    }
+  }
+  .mainStat img{
+    width: 30%;
+  }
+  .icon{
+    padding: 0 .75rem;
+  }
+}
+
+@media(max-width: 450px){
+  .mainStat{
+    margin-top: 0;
+    margin-bottom: 1rem;
+  }
+  .mainStat img{
+    margin-top: .5rem;
+    margin-left: -.75rem;
+  }
+  .stats{
+    padding-top: 0;
+  }
+  .otherStats {
+    .statValue{
+      line-height: 2.5rem;
+    }
+    .stat{
+      margin: 0;
+    }
+  }
+}
+
+@media (max-width: 410px) {
+  .widget{
+    min-width: 85vw;
+  }
+  .column{
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  .rightColumn{
+    padding-bottom: 1rem;
+  }
+  .mainStat{
+    line-height: 5.75rem;
+  }
+}
+
+@media (max-width: 340px) {
+  .mainStat{
+    line-height: 4.5rem;
+  }
+}

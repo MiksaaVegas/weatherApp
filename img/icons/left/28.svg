@@ -1,0 +1,29 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_weather_28" data-name="ic weather 28">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <g id="Group_44" data-name="Group 44">
+      <path id="Path_149" data-name="Path 149" class="cls-2" d="M17.63,30.35,13.5,36.54h4.22l-4.22,6.3" transform="translate(0 0)"/>
+      <line id="Line_210" data-name="Line 210" class="cls-2" x1="32.33" y1="30.33" x2="30.55" y2="33.34"/>
+      <line id="Line_211" data-name="Line 211" class="cls-2" x1="27.72" y1="38.14" x2="25.94" y2="41.15"/>
+      <line id="Line_212" data-name="Line 212" class="cls-2" x1="25.19" y1="33.23" x2="23.39" y2="36.23"/>
+      <line id="Line_213" data-name="Line 213" class="cls-2" x1="21.42" y1="39.52" x2="19.62" y2="42.52"/>
+      <path id="Path_150" data-name="Path 150" class="cls-2" d="M43.73,22.19c0,4.45-4,8.07-8.8,8.07H12.81a8.8,8.8,0,0,1-8.73-7.58A7.8,7.8,0,0,1,4,21.5a8.79,8.79,0,0,1,8.81-8.76,8.62,8.62,0,0,1,3.61.78C16.73,9.32,20.56,6,25.21,6a9.44,9.44,0,0,1,3.33.61A8.08,8.08,0,0,1,34,14.07v.1a6.91,6.91,0,0,1,.91,0,9.28,9.28,0,0,1,5.48,1.76A8.32,8.32,0,0,1,42,17.39,7.62,7.62,0,0,1,43.38,20a7.5,7.5,0,0,1,.35,2.15Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

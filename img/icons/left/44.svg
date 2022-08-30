@@ -1,0 +1,42 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_weather_44" data-name="ic weather 44">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <g id="Group_58" data-name="Group 58">
+      <path id="Path_195" data-name="Path 195" class="cls-2" d="M38.67,26.47c0,4.22-3.79,7.65-8.35,7.65h-21a8.33,8.33,0,0,1-8.27-7.19A6.91,6.91,0,0,1,1,25.82a8.38,8.38,0,0,1,11.78-7.58c.29-4,3.92-7.12,8.33-7.12a9,9,0,0,1,3.16.58,7.68,7.68,0,0,1,5.19,7.08v.09c.28,0,.57,0,.86,0a8.8,8.8,0,0,1,5.2,1.66A7.88,7.88,0,0,1,37,22a7.2,7.2,0,0,1,1.65,4.5Z" transform="translate(0 0)"/>
+      <path id="Path_196" data-name="Path 196" class="cls-2" d="M38.51,15a6.71,6.71,0,0,1-3,5.52,8.73,8.73,0,0,0-5.15-1.65,6.17,6.17,0,0,0-.86,0v-.1a7.67,7.67,0,0,0-5.19-7.07A7.71,7.71,0,0,1,31,8C35.11,8,38.51,11.15,38.51,15Z" transform="translate(0 0)"/>
+      <line id="Line_293" data-name="Line 293" class="cls-2" x1="30.95" y1="1" x2="30.95" y2="4.28"/>
+      <line id="Line_294" data-name="Line 294" class="cls-2" x1="20.16" y1="5.1" x2="22.69" y2="7.41"/>
+      <line id="Line_295" data-name="Line 295" class="cls-2" x1="40.47" y1="22.08" x2="43" y2="24.4"/>
+      <line id="Line_296" data-name="Line 296" class="cls-2" x1="42.62" y1="14.97" x2="46.19" y2="14.97"/>
+      <line id="Line_297" data-name="Line 297" class="cls-2" x1="39.21" y1="7.41" x2="41.73" y2="5.1"/>
+      <line id="Line_298" data-name="Line 298" class="cls-2" x1="26.12" y1="35.27" x2="27.7" y2="44.18"/>
+      <path id="Path_197" data-name="Path 197" class="cls-2" d="M25.32,36.59l1.18,1,.8-1.41" transform="translate(0 0)"/>
+      <path id="Path_198" data-name="Path 198" class="cls-2" d="M26.54,43.39,27.29,42l1.23,1" transform="translate(0 0)"/>
+      <line id="Line_299" data-name="Line 299" class="cls-2" x1="22.28" y1="40.67" x2="31.53" y2="38.78"/>
+      <path id="Path_199" data-name="Path 199" class="cls-2" d="M23.61,41.39l1.06-1.18-1.42-.73" transform="translate(0 0)"/>
+      <path id="Path_200" data-name="Path 200" class="cls-2" d="M30.67,39.94l-1.39-.67L30.36,38" transform="translate(0 0)"/>
+      <line id="Line_300" data-name="Line 300" class="cls-2" x1="14.63" y1="38.32" x2="12.07" y2="47"/>
+      <path id="Path_201" data-name="Path 201" class="cls-2" d="M13.33,39.14l.61,1.4,1.35-.9" transform="translate(0 0)"/>
+      <path id="Path_202" data-name="Path 202" class="cls-2" d="M11.37,45.77l1.29-.89.67,1.44" transform="translate(0 0)"/>
+      <line id="Line_301" data-name="Line 301" class="cls-2" x1="8.79" y1="41.44" x2="17.91" y2="43.88"/>
+      <path id="Path_203" data-name="Path 203" class="cls-2" d="M9.65,42.68l1.48-.58-1-1.29" transform="translate(0 0)"/>
+      <path id="Path_204" data-name="Path 204" class="cls-2" d="M16.62,44.53l-1-1.22,1.52-.62" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

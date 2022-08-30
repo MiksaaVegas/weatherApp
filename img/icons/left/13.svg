@@ -1,0 +1,30 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_weather_13" data-name="ic weather 13">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <g id="Group_28" data-name="Group 28">
+      <path id="Path_168" data-name="Path 168" class="cls-2" d="M43.73,21.18c0,4.45-4,8.07-8.8,8.07H12.81a8.8,8.8,0,0,1-8.73-7.58A7.8,7.8,0,0,1,4,20.49a8.79,8.79,0,0,1,8.81-8.75,8.64,8.64,0,0,1,3.61.77C16.73,8.31,20.56,5,25.21,5a9.22,9.22,0,0,1,3.33.61A8.08,8.08,0,0,1,34,13.07v.1a6.91,6.91,0,0,1,.91,0,9.29,9.29,0,0,1,5.48,1.75A8.13,8.13,0,0,1,42,16.43,7.56,7.56,0,0,1,43.73,21.18Z" transform="translate(0 0)"/>
+      <line id="Line_244" data-name="Line 244" class="cls-2" x1="23.38" y1="33.78" x2="23.38" y2="37.28"/>
+      <line id="Line_245" data-name="Line 245" class="cls-2" x1="23.38" y1="40.47" x2="23.38" y2="43.97"/>
+      <line id="Line_246" data-name="Line 246" class="cls-2" x1="28.06" y1="29.78" x2="28.06" y2="33.28"/>
+      <line id="Line_247" data-name="Line 247" class="cls-2" x1="28.06" y1="38.47" x2="28.06" y2="41.97"/>
+      <line id="Line_248" data-name="Line 248" class="cls-2" x1="18.68" y1="29.78" x2="18.68" y2="33.28"/>
+      <line id="Line_249" data-name="Line 249" class="cls-2" x1="18.68" y1="38.47" x2="18.68" y2="41.97"/>
+    </g>
+  </g>
+</svg>

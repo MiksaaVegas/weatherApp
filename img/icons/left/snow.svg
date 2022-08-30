@@ -1,0 +1,32 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_snow" data-name="ic snow">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <g id="Group_15" data-name="Group 15">
+      <line id="Line_286" data-name="Line 286" class="cls-2" x1="23.8" y1="7" x2="23.8" y2="41"/>
+      <path id="Path_180" data-name="Path 180" class="cls-2" d="M19.16,11.23l4.51,4.52,4.77-4.6" transform="translate(0 0)"/>
+      <path id="Path_181" data-name="Path 181" class="cls-2" d="M19.16,37.21l4.51-4.51,4.77,4.6" transform="translate(0 0)"/>
+      <line id="Line_287" data-name="Line 287" class="cls-2" x1="9.08" y1="15.49" x2="38.52" y2="32.5"/>
+      <path id="Path_182" data-name="Path 182" class="cls-2" d="M10.42,21.64,16.59,20,15,13.55" transform="translate(0 0)"/>
+      <path id="Path_183" data-name="Path 183" class="cls-2" d="M32.92,34.63l-1.65-6.17,6.37-1.84" transform="translate(0 0)"/>
+      <line id="Line_288" data-name="Line 288" class="cls-2" x1="9" y1="32.54" x2="38.44" y2="15.55"/>
+      <path id="Path_184" data-name="Path 184" class="cls-2" d="M15,34.45l1.66-6.17-6.37-1.84" transform="translate(0 0)"/>
+      <path id="Path_185" data-name="Path 185" class="cls-2" d="M37.48,21.46,31.32,19.8l1.6-6.43" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

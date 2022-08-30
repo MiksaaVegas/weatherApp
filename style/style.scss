@@ -1,0 +1,120 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+body {
+  background-image: url("../img/backgrounds/day/5.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+body .backdrop {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  z-index: -1;
+}
+
+.widgetWrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.widget {
+  background-color: rgba(0, 0, 0, 0.8);
+  min-width: 50vw;
+  display: flex;
+  justify-content: space-between;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  border-radius: 40px;
+}
+
+.column {
+  flex-basis: 50%;
+  min-width: 350px;
+  padding: 5rem;
+}
+
+.leftColumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-left: 6rem;
+}
+
+.icon img {
+  width: 100%;
+}
+
+.descAndLocation {
+  font-size: 5rem;
+  text-align: center;
+}
+.descAndLocation .weather {
+  font-family: "Raleway";
+}
+.descAndLocation .in {
+  font-family: "Roboto";
+}
+.descAndLocation .location {
+  font-family: "Mont";
+}
+
+.rightColumn {
+  padding-right: 6rem;
+}
+
+.stats {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  padding: 1.5rem 0;
+}
+
+.stat {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Roboto";
+}
+.stat img {
+  width: 30%;
+  height: 100%;
+}
+
+.mainStat {
+  font-size: 14rem;
+  line-height: 20rem;
+  vertical-align: middle;
+  margin-bottom: 2rem;
+  letter-spacing: -16px;
+}
+.mainStat img {
+  width: 40%;
+  margin-left: -3rem;
+}
+
+.otherStats .stat {
+  margin: -2.5rem 0;
+}
+.otherStats .statValue {
+  font-size: 9rem;
+  line-height: 14rem;
+  vertical-align: middle;
+}
+
+@font-face {
+  font-family: Mont;
+  src: url("../font/mont.otf");
+}
+
+@import 'queries'

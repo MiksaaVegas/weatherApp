@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather now!</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Raleway:wght@500&family=Roboto:ital,wght@0,100;1,100&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style/style.css">
+</head>
+
+<body>
+  <div class="backdrop"></div>
+
+  <section class="widgetWrapper">
+    <div class="widget">
+      <div class="column leftColumn">
+        <div class="icon">
+          <img src="" alt="">
+        </div>
+        <div class="descAndLocation">
+          <p>
+            <span class="weather">Partly sunny</span>
+            <br>
+            <span class="location">Skopje</span>
+          </p>
+        </div>
+      </div>
+      <div class="column rightColumn">
+        <div class="stats">
+          <p class="temperature stat mainStat">
+            <img src="img/icons/right/ic_thermometer_3.svg" alt="">
+            <span class="statValue">16°C</span>
+          </p>
+          <div class="otherStats">
+            <p class="wind stat">
+              <img src="img/icons/right/ic_wind.svg" alt="">
+              <span class="statValue">4m/s</span>
+            </p>
+            <p class="clouds stat">
+              <img src="img/icons/right/ic_sky.svg" alt="">
+              <span class="statValue">23%</span>
+            </p>
+            <p class="humidity stat">
+              <img src="img/icons/right/ic_water.svg" alt="">
+              <span class="statValue">5%</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script src="script/iconConfig.js"></script>
+  <script src="script/index.js"></script>
+</body>
+
+</html>

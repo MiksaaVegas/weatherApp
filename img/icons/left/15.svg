@@ -1,0 +1,31 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_weather_15" data-name="ic weather 15">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <g id="Group_26" data-name="Group 26">
+      <path id="Path_171" data-name="Path 171" class="cls-2" d="M46.77,17.32a12.05,12.05,0,0,1-7.63,6.93,7.11,7.11,0,0,0-1.33-2.5,7.48,7.48,0,0,0-1.5-1.42,8.7,8.7,0,0,0-5.16-1.66,6.17,6.17,0,0,0-.86,0v-.09a7.63,7.63,0,0,0-5.17-7,8.56,8.56,0,0,0-1.42-.41A12,12,0,0,1,32.68,1,12.17,12.17,0,0,0,46.77,17.32Z" transform="translate(0 0)"/>
+      <path id="Path_172" data-name="Path 172" class="cls-2" d="M39.44,26.28c0,4.19-3.77,7.6-8.29,7.6H10.3a8.3,8.3,0,0,1-8.23-7.14A7,7,0,0,1,2,25.62,8.3,8.3,0,0,1,13.7,18.1C14,14.15,17.6,11,22,11a8.86,8.86,0,0,1,3.14.57,7.62,7.62,0,0,1,5.16,7v.1a6.17,6.17,0,0,1,.86,0,8.73,8.73,0,0,1,5.17,1.66,7.76,7.76,0,0,1,1.5,1.42,7.44,7.44,0,0,1,1.33,2.5,7.36,7.36,0,0,1,.3,2Z" transform="translate(0 0)"/>
+      <line id="Line_261" data-name="Line 261" class="cls-2" x1="22.32" y1="37.4" x2="22.32" y2="40.7"/>
+      <line id="Line_262" data-name="Line 262" class="cls-2" x1="22.32" y1="43.7" x2="22.32" y2="47"/>
+      <line id="Line_263" data-name="Line 263" class="cls-2" x1="26.73" y1="34.57" x2="26.73" y2="37.87"/>
+      <line id="Line_264" data-name="Line 264" class="cls-2" x1="26.73" y1="42.76" x2="26.73" y2="46.06"/>
+      <line id="Line_265" data-name="Line 265" class="cls-2" x1="17.89" y1="34.57" x2="17.89" y2="37.87"/>
+      <line id="Line_266" data-name="Line 266" class="cls-2" x1="17.89" y1="42.76" x2="17.89" y2="46.06"/>
+    </g>
+  </g>
+</svg>

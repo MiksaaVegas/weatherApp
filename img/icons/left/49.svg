@@ -1,0 +1,31 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_weather_49" data-name="ic weather 49">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <g id="Group_63" data-name="Group 63">
+      <line id="Line_103" data-name="Line 103" class="cls-2" x1="15.32" y1="29.86" x2="13.52" y2="32.87"/>
+      <line id="Line_104" data-name="Line 104" class="cls-2" x1="10.73" y1="37.51" x2="8.93" y2="40.51"/>
+      <line id="Line_105" data-name="Line 105" class="cls-2" x1="19.91" y1="32.83" x2="18.09" y2="35.82"/>
+      <line id="Line_106" data-name="Line 106" class="cls-2" x1="16.14" y1="39.03" x2="14.31" y2="42.02"/>
+      <path id="Path_69" data-name="Path 69" class="cls-2" d="M43.73,21.18c0,4.45-4,8.07-8.8,8.07H12.81a8.8,8.8,0,0,1-8.73-7.58A7.8,7.8,0,0,1,4,20.49a8.79,8.79,0,0,1,8.81-8.75,8.64,8.64,0,0,1,3.61.77C16.73,8.31,20.56,5,25.21,5a9.22,9.22,0,0,1,3.33.61A8.08,8.08,0,0,1,34,13.07v.1a6.91,6.91,0,0,1,.91,0,9.29,9.29,0,0,1,5.48,1.75A8.13,8.13,0,0,1,42,16.43,7.56,7.56,0,0,1,43.73,21.18Z" transform="translate(0 0)"/>
+      <path id="Path_70" data-name="Path 70" class="cls-2" d="M16.33,29.19s9.47.13,14.56,0c4.61-.12,5.79-4.43,4.61-6.36s-5.41-1.06-4.18,2.37" transform="translate(0 0)"/>
+      <path id="Path_71" data-name="Path 71" class="cls-2" d="M24.39,36h6.48c2.92,0,4.73,1.7,4.31,3.41" transform="translate(0 0)"/>
+      <path id="Path_72" data-name="Path 72" class="cls-2" d="M23.8,32.87s7.62-.1,14,0c3.42.05,4.87,2,4.87,3.77a4.63,4.63,0,0,1-2.62,4.17" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

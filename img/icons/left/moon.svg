@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_moon" data-name="ic moon">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <path id="Path_1" data-name="Path 1" class="cls-2" d="M39.5,23.6a15.59,15.59,0,0,1-30,6,16.38,16.38,0,0,0,3.82.48A15.59,15.59,0,0,0,27.72,8.5,15.59,15.59,0,0,1,39.5,23.6Z" transform="translate(0 0)"/>
+  </g>
+</svg>

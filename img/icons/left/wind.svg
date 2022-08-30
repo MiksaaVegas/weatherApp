@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd2d2;
+        fill-opacity: 0;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="ic_wind" data-name="ic wind">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="48" height="48"/>
+    <g id="Group_14" data-name="Group 14">
+      <path id="Path_38" data-name="Path 38" class="cls-2" d="M5.82,21.43s15.36.45,22.61,0,9-6.88,7.15-9.87-8.4-1.64-6.5,3.68" transform="translate(0 0)"/>
+      <path id="Path_39" data-name="Path 39" class="cls-2" d="M5.82,28.84H28.43c4.54,0,7.35,2.64,6.69,5.29" transform="translate(0 0)"/>
+      <path id="Path_40" data-name="Path 40" class="cls-2" d="M5,25.63s21.39-.16,31.35,0c5.37.08,7.65,3,7.65,5.85,0,2.65-1.77,5.67-4.13,6.48" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
