@@ -9,7 +9,8 @@ let humidity = document.querySelector('.humidity .statValue')
 let date = new Date
 let apiLink = 'https://api.openweathermap.org/data/2.5/weather?appid=e313288fa1586debabc518b5dd1f002c&q=Skopje&units=metric'
 const timeNow = date.getHours()
-const partOfDay = (timeNow <= 6 || timeNow >= 20) ? 'night' : 'day'
+const partOfDay = (timeNow <= 5 || timeNow >= 19) ? 'night' : 'day'
+const isSunRisingOrSetting = (timeNow == 6 || timeNow == 18) ? true : false
 //TODO Search bar for every loaction:
 //? https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 //TODO Add options for more metric units (Fahrenheit, Miles/hour)
@@ -18,7 +19,7 @@ const partOfDay = (timeNow <= 6 || timeNow >= 20) ? 'night' : 'day'
 
 const loadBackground = () => {
   const backgroundID = Math.ceil(Math.random() * 5)
-  const backgroundURL = `../img/backgrounds/${partOfDay}/${backgroundID}.jpg`
+  const backgroundURL = `img/backgrounds/${partOfDay}/${backgroundID}.jpg`
 
   document.body.style.backgroundImage = `url(${backgroundURL})`
 }
@@ -61,33 +62,37 @@ const setIcon = (weatherID, windSpeedNumber) => {
   let iconID, iconIndex
   const rangeOfIcons = iconConfig[weatherID].length
 
-  switch (rangeOfIcons) {
-    case 4:
-      if(partOfDay === 'day')
+  if(isSunRisingOrSetting && (weatherID == 800 || weatherID == 801))
+    icon.src = `img/icons/left/half_sun.svg`
+  else{
+    switch (rangeOfIcons) {
+      case 4:
+        if(partOfDay === 'day')
+          if(isWindFast) iconIndex = 2
+          else iconIndex = 0
+        else
+          if(isWindFast) iconIndex = 3
+          else iconIndex = 1
+        break
+      case 3:
         if(isWindFast) iconIndex = 2
-        else iconIndex = 0
-      else
-        if(isWindFast) iconIndex = 3
-        else iconIndex = 1
-      break
-    case 3:
-      if(isWindFast) iconIndex = 2
-      else{
+        else{
+          if(partOfDay === 'day') iconIndex = 0
+          else iconIndex = 1
+        }
+        break
+      case 2:
         if(partOfDay === 'day') iconIndex = 0
         else iconIndex = 1
-      }
-      break
-    case 2:
-      if(partOfDay === 'day') iconIndex = 0
-      else iconIndex = 1
-      break
-    default:
-      iconIndex = 0
-      break
-  }
+        break
+      default:
+        iconIndex = 0
+        break
+    }
 
-  iconID = iconConfig[weatherID][iconIndex]
-  icon.src = `img/icons/left/${iconID}.svg`
+    iconID = iconConfig[weatherID][iconIndex]
+    icon.src = `img/icons/left/${iconID}.svg`
+  }
 }
 
 loadBackground()
