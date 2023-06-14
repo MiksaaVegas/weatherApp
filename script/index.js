@@ -7,7 +7,7 @@ let windSpeed = document.querySelector('.wind .statValue')
 let cloudCover = document.querySelector('.clouds .statValue')
 let humidity = document.querySelector('.humidity .statValue')
 let date = new Date
-let apiLink = 'https://api.openweathermap.org/data/2.5/weather?appid=e313288fa1586debabc518b5dd1f002c&q=Skopje&units=metric'
+import apiLink from "./apiKey.js"
 const timeNow = date.getHours()
 const partOfDay = (timeNow <= 5 || timeNow >= 19) ? 'night' : 'day'
 const isSunRisingOrSetting = (timeNow == 6 || timeNow == 18) ? true : false
