@@ -7,7 +7,7 @@ let windSpeed = document.querySelector('.wind .statValue')
 let cloudCover = document.querySelector('.clouds .statValue')
 let humidity = document.querySelector('.humidity .statValue')
 let date = new Date
-import apiLink from "./apiKey.js"
+import apiLink from "./api_key.js"
 const timeNow = date.getHours()
 const partOfDay = (timeNow <= 5 || timeNow >= 19) ? 'night' : 'day'
 const isSunRisingOrSetting = (timeNow == 6 || timeNow == 18) ? true : false
